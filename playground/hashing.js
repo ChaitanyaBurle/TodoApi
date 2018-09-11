@@ -18,6 +18,7 @@ bcrypt.compare('123!',hashedPassword,(err,res)=>{
 });
 
 // var data ={
+    
 //     id :10
 // }
 // var token =jwt.sign(data,'123abc');
